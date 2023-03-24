@@ -37,12 +37,12 @@ if (!isset($count_word))
 {
     $count_len = 0;
 }
-echo "Количество слов: " . $count_len;
+echo "Количество символов: " . $count_len;
 if (!isset($count_word))
 {
     $count_word = 0;
 }
-echo "<br>Количество символов: " . $count_word. "</br>";
+echo "<br>Количество слов: " . $count_word. "</br>";
 ?>
 </p>
 </body>
