@@ -1,0 +1,4 @@
+.idea
+/code/credentials.json
+/code/vendor
+/code/composer.lock
